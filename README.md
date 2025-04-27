@@ -96,13 +96,3 @@ This project is licensed under the MIT License.
 # ✨ Example
 
 ![Smart Questionnaire Filler Screenshot](https://placehold.co/800x400?text=Demo+Screenshot)
-
----
-
-Would you also like me to create:
-- A **sample GitHub repo folder structure** (zip)?
-- A **nice badge set** (Build Passing, Deployed on Streamlit, MIT License)?
-
-🚀  
-Let’s make it look top-tier if you want! 🎯  
-Would you like me to generate the badges too? (Takes 30 seconds!)
